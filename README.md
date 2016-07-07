@@ -35,6 +35,8 @@ We have also measured the Mamiya-1000 DTL viewfinder, and FED-3 viewfinder, they
 
 Another test we conducted - we were trying to get the device notice the radiation when the thoriated lenses were on the camera. We could not detect radiation by moving the device sensor arond the lenses, near m42 mount, everywhere around the camera. It seems that the metal parts filter radiation well, and even those lenses are safe to use.
 
+The person who conducted the measurments showed me an old American compass, measured it for me, and got 48 μSv/h radiation levels. Also he showed me Soviet military switch, which glows when it's dark, which radiates till 3 μSv/h level.
+
 ---
 
 1. 
