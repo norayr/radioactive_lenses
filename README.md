@@ -27,6 +27,8 @@ Apparently, Mamiya/Sekor 55mm which is reported to be radioactive[1] is not acti
 
 The only really dangerous lenses we found in my collection were Mamiya/Sekor 50mm f1.8 which came with my Mamiya 1000 DTL. It's also yellow. The device could identify the radioactive element, which is, no wonder notorious Thorium-232.
 
+Apparently, Pentacon 50mm F1.8 lenses with clean, not yellow at all glass, even a bit blue at some angles, are more radioactive than Mamiya 50mm F1.4 with yellow glass.
+
 When measuring Helios 85mm, the radiation level went lower than the background, when the device got closer to the glass: that's because it's built from solid metal, and it filters background radiation at it's front part which has small hood. These lenses are also a bit yellow.
 
 What was surprising, that lenses from the FED-3 camera, officially promoted as lenses with lanthanum optics, seem to have no dangerous level of radiation.
