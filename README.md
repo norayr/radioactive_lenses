@@ -25,11 +25,11 @@ I am not able to disclose information about the person who conducted the measurm
 
 Apparently, Mamiya/Sekor 55mm which is reported to be radioactive[1] is not active according to our measurments. May be there been different 55mm f1.4 lenses in production?
 
-The only really dangerous lenses we found in my collection were Mamiya/Sekor 50mm f1.8 which came with my Mamiya 1000 DTL. It's also yellow. The device could identify the radioactive element, which is, no wonder notorious Thorium-232.
+The only radioactive lenses we found in my collection were Mamiya/Sekor 50mm f1.8 which came with my Mamiya 1000 DTL. It's also yellow. The device could identify the radioactive element, which is, no wonder notorious Thorium-232.
 
 Apparently, Pentacon 50mm F1.8 lenses with clean, not yellow at all glass, even a bit blue at some angles, are more radioactive than Mamiya 50mm F1.4 with yellow glass.
 
-When measuring Helios 85mm, the radiation level went lower than the background, when the device got closer to the glass: that's because it's built from solid metal, and it filters background radiation at it's front part which has small hood. These lenses are also a bit yellow.
+When measuring Helios 85mm, the radiation level went lower than the background, when the device got closer to the glass: that's because lenses built from solid metal, and it filters background radiation at it's front part which has small hood. These lenses are also a bit yellow.
 
 What was surprising, that lenses from the FED-3 camera, officially promoted as lenses with lanthanum optics, seem to have no dangerous level of radiation.
 
@@ -37,7 +37,7 @@ We have also measured the Mamiya-1000 DTL viewfinder, and FED-3 viewfinder, they
 
 Another test we conducted - we were trying to get the device notice the radiation when the thoriated lenses were on the camera. We could not detect radiation by moving the device sensor arond the lenses, near m42 mount, everywhere around the camera. It seems that the metal parts filter radiation well, and even those lenses are safe to use.
 
-The person who conducted the measurments showed me an old American compass, measured it for me, and got 48 μSv/h radiation levels. Also he showed me Soviet military switch, which glows when it's dark, which radiates till 3 μSv/h level.
+The person who conducted the measurments showed me an old American compass, measured it for me, and got 48 μSv/h radiation levels. Also he showed me Soviet military switch, which glows when it's dark, which radiates till 3 μSv/h level. The identified element was Radium, but I do not remember was it in compass or the switch.
 
 ---
 
