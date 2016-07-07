@@ -1,3 +1,5 @@
+
+
 My friends helped me to measure radioactivity of my lenses. I had some yellowish lenses, and had an assumptions that some of them are possibly radioactive. However, I did not know until this time if it's true.
 
 These are the results of our measurments.  We have been written down only the maximum values.
