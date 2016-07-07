@@ -1,4 +1,4 @@
-|                 | background                                              |         | front el. ( μSv/h) | rear ( μSv/h) |
+|                 | background                                              |         | front el. ( μSv/h) | rear el. ( μSv/h) |
 |-----------------|---------------------------------------------------------|---------|---------------------|----------------|
 | Asahi           | Pentax Super-Takumar                                    | 35/3.5  | 0.08                | 0.08           |
 | Asahi           | S-M-C Super-Takumar                                     | 135/3.5 | 0.086               | 0.08           |
