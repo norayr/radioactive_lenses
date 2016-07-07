@@ -1,3 +1,10 @@
+My friends helped me to measure radioactivity of my lenses. I had some yellowish lenses, and had an assumptions that some of them are possibly radioactive. However, I did not know until this time if it's true.
+
+These are the results of our measurments.  We have been written down only the maximum values.
+
+I am not able to disclose information about the person who conducted the measurments, the place, and even the device name.
+
+
 |                 | background                                              |         | front el. ( μSv/h) | rear el. ( μSv/h) |
 |-----------------|---------------------------------------------------------|---------|---------------------|----------------|
 | Asahi           | Pentax Super-Takumar                                    | 35/3.5  | 0.08                | 0.08           |
@@ -12,3 +19,23 @@
 | Mamiya          | Mamiya-Sekor E                                          | 50/1.7  | 0.056               | 0.056          |
 | Pentacon        | MC auto                                                 | 50/1.8  | 0.14                | 0.13           |
 | Zenit           | MC Zenitar-M2.8/16 Fisheye                              | 16/2.8  | 0.095               | 0.075          |
+
+
+Apparently, Mamiya/Sekor 55mm which is reported to be radioactive[1] is not active according to our measurments. May be there been different 55mm f1.4 lenses in production?
+
+The only really dangerous lenses we found in my collection were Mamiya/Sekor 50mm f1.8 which came with my Mamiya 1000 DTL. It's also yellow. The device could identify the radioactive element, which is, no wonder notorious Thorium-232.
+
+When measuring Helios 85mm, the radiation level went lower than the background, when the device got closer to the glass: that's because it's built from solid metal, and it filters background radiation at it's front part which has small hood. These lenses are also a bit yellow.
+
+What was surprising, that lenses from the FED-3 camera, officially promoted as lenses with lanthanum optics, seem to have no dangerous level of radiation.
+
+We have also measured the Mamiya-1000 DTL viewfinder, and FED-3 viewfinder, they are clean and safe to use.
+
+Another test we conducted - we were trying to get the device notice the radiation when the thoriated lenses were on the camera. We could not detect radiation by moving the device sensor arond the lenses, near m42 mount, everywhere around the camera. It seems that the metal parts filter radiation well, and even those lenses are safe to use.
+
+---
+
+1. 
+* https://www.youtube.com/watch?v=P8G585hZYyE
+* http://camerapedia.wikia.com/wiki/Radioactive_lenses
+* https://en.wikipedia.org/wiki/List_of_Mamiya_products#Single_lens_reflex
