@@ -45,3 +45,4 @@ The person who conducted the measurments showed me an old American compass, meas
 * https://www.youtube.com/watch?v=P8G585hZYyE
 * http://camerapedia.wikia.com/wiki/Radioactive_lenses
 * https://en.wikipedia.org/wiki/List_of_Mamiya_products#Single_lens_reflex
+* http://www.diva-portal.org/smash/get/diva2:652338/FULLTEXT01.pdf
